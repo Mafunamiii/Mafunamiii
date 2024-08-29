@@ -10,9 +10,9 @@ I am an IT student from Mapua University, currently working as a Software Engine
 
 ### Skills
 
-- **Programming Languages**: Java, Python, C++, 
+- **Programming Languages**: Java, Typescript, Python, C++, 
 - **Tools**: Maven, Git
-- **Databases**: SQL
+- **Databases**: SQL, MongoDB
 
 ### Education
 
