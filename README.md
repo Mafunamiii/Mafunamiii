@@ -11,7 +11,7 @@ I am an IT student from Mapua University, currently working as a Software Engine
 ### Skills
 
 - **Programming Languages**: Java, Typescript, Python, C++, 
-- **Tools**: Maven, Git
+- **Tools**: Maven, Git, Prometheus, Grafana, Elasticsearch, Logstash, Kibana
 - **Databases**: SQL, MongoDB
 
 ### Education
@@ -27,7 +27,7 @@ I am an IT student from Mapua University, currently working as a Software Engine
 
 ### Goals
 
-- Long-term: Develop my skillsets and expand my knowledge base.
+- Long-term: to have the ability to decide which tools and tech stack will be best to use in projects
 
 ### Hobbies
 
